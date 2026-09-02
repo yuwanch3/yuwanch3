@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Yuwanch3</title>
+  <desc id="desc">Full-stack developer building useful software from interface to infrastructure</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0d1729"/>
+      <stop offset="1" stop-color="#101328"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="280" rx="18" fill="url(#background)"/>
+  <rect width="1000" height="280" rx="18" fill="url(#grid)"/>
+  <circle cx="885" cy="28" r="150" fill="#7c3aed" fill-opacity="0.13" filter="url(#glow)"/>
+  <circle cx="95" cy="265" r="125" fill="#0891b2" fill-opacity="0.16" filter="url(#glow)"/>
+
+  <g transform="translate(62 54)">
+    <rect width="44" height="26" rx="13" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.45"/>
+    <circle cx="13" cy="13" r="4" fill="#22d3ee"/>
+    <text x="25" y="17" fill="#a5f3fc" font-family="monospace" font-size="10">DEV</text>
+
+    <text x="0" y="96" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Yuwanch3</text>
+    <rect y="114" width="282" height="4" rx="2" fill="url(#accent)"/>
+    <text x="0" y="154" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="1">FULL-STACK DEVELOPER</text>
+    <text x="0" y="185" fill="#64748b" font-family="monospace" font-size="14">mobile  /  backend  /  desktop engineering</text>
+  </g>
+
+  <g transform="translate(756 72)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 24 28 0l28 24-28 24Z" stroke="#22d3ee" stroke-opacity="0.8" stroke-width="2"/>
+    <path d="M28 48v58m-28-82v58l28 24 28-24V24" stroke="#22d3ee" stroke-opacity="0.35"/>
+    <path d="m74 78 28-24 28 24-28 24Z" stroke="#a78bfa" stroke-opacity="0.8" stroke-width="2"/>
+    <path d="M102 102v58M74 78v58l28 24 28-24V78" stroke="#a78bfa" stroke-opacity="0.35"/>
+    <path d="m56 82 18-4M56 24l46 30" stroke="url(#accent)" stroke-width="2" stroke-dasharray="4 7"/>
+    <circle cx="28" cy="106" r="5" fill="#22d3ee" stroke="none"/>
+    <circle cx="102" cy="160" r="5" fill="#a78bfa" stroke="none"/>
+  </g>
+
+  <rect x="1" y="1" width="998" height="278" rx="17" fill="none" stroke="url(#accent)" stroke-opacity="0.25" stroke-width="2"/>
+</svg>
