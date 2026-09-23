@@ -82,7 +82,7 @@ Mostly **React Native + TypeScript** during the day (my learning app [**Ambativa
 ### 📊 すうじ · Activity
 
 <div align="center">
-  <img height="170" src="https://ghstats.dev/api/stats?username=yuwanch3&theme=midnight_sakura" alt="Yuwanch3 GitHub stats" />
+  <img height="170" src="https://ghstats.dev/api/card?username=yuwanch3&theme=midnight_sakura" alt="Yuwanch3 GitHub stats" />
   <img height="170" src="https://ghstats.dev/api/langs?username=yuwanch3&theme=midnight_sakura&layout=compact" alt="Yuwanch3 top languages" />
 </div>
 
