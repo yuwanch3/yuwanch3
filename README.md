@@ -1,57 +1,107 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Yuwanch3 - Full-stack developer" />
+  <img src="./assets/header.svg" width="100%" alt="Yuwanch3 - ゆわんちの作業場" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/yuwanch3?tab=followers">
-    <img src="https://img.shields.io/github/followers/yuwanch3?style=flat-square&logo=github&label=Followers&color=22d3ee" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yuwanch3&style=flat-square&color=22d3ee&label=Profile+views" alt="Profile views" />
+  
+![Profile views](https://komarev.com/ghpvc/?username=yuwanch3&color=ff79c6&label=%E2%BC%B8%20profile%20views)
+![Followers](https://img.shields.io/github/followers/yuwanch3?style=for-the-badge&logo=github&label=Follow&color=ff79c6&labelColor=1f1b3a)
+
+<img src="https://readme-typing-svg.demolab.com?font=Rounded&display=block&center=true&vCenter=true&width=520&height=44&duration=2800&pause=1400&color=FF9BD2&content=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%20I%27m%20Yuwanch3%20%E2%98%86" alt="Konnichiwa! I'm Yuwanch3" />
+
 </div>
 
-### About
+─── ⸜(｡˃ ᵕ ˂ )⸝ ───
 
-I am **Yuwanch3**, a full-stack developer who enjoys turning ideas into practical products. My work spans mobile learning experiences, REST APIs, and Python desktop tools for engineering and instrumentation.
+### 🌸 ようこそ · Welcome
 
-- Building interactive products with **React Native, TypeScript, PHP, and MySQL**
-- Exploring desktop engineering software and hardware integration with **Python**
-- Focused on useful features, clean interfaces, and reliable systems
-- Always learning by shipping real projects
+**Yuwanch3** here — I build things I actually want to use.
 
-### Toolbox
+Mostly **React Native + TypeScript** during the day (my learning app [**Ambativasi**](https://github.com/yuwanch3/Ambativasi-apps) grows every week), and **Python** at night wiring desktop tools to real lab hardware in [**PyLabView Studio**](https://github.com/yuwanch3/py-labView).
+
+> **now →** polishing Ambativasi · adding adapters to PyLabView · shipping small, learning always
+
+**outside the editor →** anime nights, gacha regrets, and one more cup of coffee ฅ^•ﻌ•^ฅ
+
+─── ˚ ⋆ ｡ ✦ ˚ ⋆ ───
+
+### ⚔️ つかうもの · Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,python,php,mysql,html,css,git,github&perline=10" alt="TypeScript, JavaScript, React, Python, PHP, MySQL, HTML, CSS, Git, and GitHub" />
+
+<table>
+<tr>
+<td align="center"><b>📱 Mobile</b></td>
+<td><code>react</code> <code>typescript</code> <code>expo</code></td>
+</tr>
+<tr>
+<td align="center"><b>🌐 Web &amp; API</b></td>
+<td><code>javascript</code> <code>html</code> <code>css</code> <code>php</code></td>
+</tr>
+<tr>
+<td align="center"><b>🐍 Lab &amp; Data</b></td>
+<td><code>python</code> <code>tkinter</code> <code>opencv</code></td>
+</tr>
+<tr>
+<td align="center"><b>🗄 Store &amp; Ship</b></td>
+<td><code>mysql</code> <code>git</code> <code>github</code></td>
+</tr>
+</table>
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,python,php,mysql,html,css,git,github&perline=10" alt="TypeScript, JavaScript, React, Python, PHP, MySQL, HTML, CSS, Git, GitHub" />
+
 </div>
 
-### Selected Work
+─── ˚ ⋆ ｡ ♡ ˚ ⋆ ───
+
+### 🎮 さくひん · Selected Works
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Ambativasi</h3>
-      <p>Interactive mobile learning with lessons, quizzes, speech recognition, gamification, and an AI assistant.</p>
-      <p><strong>React Native | Expo | TypeScript | PHP | MySQL</strong></p>
-      <a href="https://github.com/yuwanch3/Ambativasi-apps">View repository</a>
-      |
-      <a href="https://rafliseptian.vercel.app">Visit project</a>
+      <h3>🌸 Ambativasi</h3>
+      <p>Interactive mobile learning — lessons, quizzes, speech recognition, gamification, and an AI assistant for Indonesian students.</p>
+      <p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>PHP</code> <code>MySQL</code></p>
+      <a href="https://github.com/yuwanch3/Ambativasi-apps">repository</a>
+      ·
+      <a href="https://rafliseptian.vercel.app">live site</a>
     </td>
     <td width="50%" valign="top">
-      <h3>PyLabView Studio</h3>
-      <p>A visual dataflow desktop environment for Python with instrumentation adapters for DAQ, VISA, serial, OPC UA, Modbus, and computer vision.</p>
-      <p><strong>Python | Tkinter | Hardware integration</strong></p>
-      <a href="https://github.com/yuwanch3/py-labView">View repository</a>
+      <h3>⚗️ PyLabView Studio</h3>
+      <p>Visual dataflow desktop environment for Python, with instrumentation adapters for DAQ, VISA, serial, OPC UA, Modbus, and computer vision.</p>
+      <p><code>Python</code> <code>Tkinter</code> <code>Hardware</code></p>
+      <a href="https://github.com/yuwanch3/py-labView">repository</a>
     </td>
   </tr>
 </table>
 
-### GitHub Activity
+<a href="https://github.com/yuwanch3?tab=repositories">✧ see all repositories ✧</a>
+
+─── ˚ ⋆ ｡ ✧ ˚ ⋆ ───
+
+### 📊 すうじ · Activity
 
 <div align="center">
-  <img width="64%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuwanch3&theme=github_dark" alt="Yuwanch3's GitHub activity" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuwanch3&theme=github_dark" alt="Yuwanch3's repositories by language" />
+  <img height="170" src="https://ghstats.dev/api/stats?username=yuwanch3&theme=midnight_sakura" alt="Yuwanch3 GitHub stats" />
+  <img height="170" src="https://ghstats.dev/api/langs?username=yuwanch3&theme=midnight_sakura&layout=compact" alt="Yuwanch3 top languages" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/yuwanch3?tab=repositories">Explore all repositories</a>
+  <img src="https://streak-stats.demolab.com?user=yuwanch3&theme=midnight_sakura&hide_border=true" alt="Yuwanch3 GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=yuwanch3&theme=tokyonight&column=6" alt="Yuwanch3 GitHub trophies" />
+</div>
+
+─── ⸝(ᵕ ᵕ⸝⸝)⸝ ───
+
+### 💌 さいごに · Say hi
+
+Curious about Ambativasi, PyLabView, or just want to talk anime &amp; engineering?
+
+**[Open an issue](https://github.com/yuwanch3?tab=repositories)** · **[Follow along](https://github.com/yuwanch3)**
+
+<div align="center">
+<sub>✎ made with sakura petals &amp; late-night commits · ゆわんちの作業場</sub>
 </div>
